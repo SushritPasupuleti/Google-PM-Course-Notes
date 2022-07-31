@@ -6,7 +6,7 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Foundations of PM](#Foundations-of-PM)
 
-- Project Initiation
+- [Project Initiation](./Course2.md)
 
 - Project Planning
 
@@ -21,6 +21,10 @@ Using this repo to make notes as I complete the Google PM Course.
 - [Scrum Guide](https://scrumguides.org/scrum-guide.html) - Must read!
 
 - [Facebook PM Mock Interview](https://youtu.be/se6Soyi2k0U) - Try out after the course
+
+- [Culture Maps](https://www.strategyzer.com/blog/posts/2015/10/13/the-culture-map-a-systematic-intentional-tool-for-designing-great-company-culture)
+
+- [Cost Benefit Analysis Step by Step](https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
 
 ### Foundations of PM
 
@@ -311,4 +315,132 @@ Phases:
 - Improve (present findings and start implementing)
 
 - Control (learning from the work done before to put up new processes and documentation in place)
+
+#### Understanding Organizational Structure
+
+Common Structures:
+
+- Classic: Also called functional or top-down (Chain of command -> o -> o -> o)
+
+- Matrix: Grid style, collab with many teams. Multiple chains of commands.
+
+Impacts on PMs
+
+- Authority (depending on the org structure, you may report to one or more, or have reports from one or more teams)
+
+- Resource Availability (Accesss to people, equipment and budgets).
+
+#### Project Management Office
+
+It is a group within the organization that defines, sets and helps maintain PM standards and processes throughout the organization. It often acts as the coordinated center for all of the org's projects.
+
+Things worked on:
+
+- Strategic planning and governance
+
+- Best Practices
+
+- Common Project Culture
+
+- Resource Management
+
+- Creation of project docs, archives and tools
+
+#### Organizational Culture
+
+- Values the employees share, as well as org's values, mission and history.
+
+- Company's presonality
+
+Knowing it allows for quicker conflict resolution, faster and harmonious project completion.
+
+When a proposal clearly shows how it aligns with the company culture, people will be on board.
+
+Assessing Culture:
+
+- How does communication happen ?
+
+- How are decisions made ?
+
+- Onboarding processes ?
+
+- How are projects typically run ?
+
+- What kind of behaviours are reflected by people ?
+
+Navigating the culture:
+
+- Ask questions
+
+- Make observations
+
+- Understand your Impact (Change agent: person from within the org that helps the org transform by focuing on improving the effectiveness and development of the org)
+
+From the Docs:
+
+<hr/>
+
+Ask questions
+
+You can learn about an organization's culture by asking questions of management and peers. It can be helpful to ask these questions in the interview phase to better understand the company’s culture before accepting a position. You might want to ask questions about:
+
+- Atmosphere
+	
+	- What is the company’s dress code? 
+
+	- How do people typically share credit at this company? 
+
+	- Is risk-taking encouraged, and what happens when people fail?
+
+	- How do managers support and motivate their team?
+
+	- How do people in this role interact with customers and users?
+
+	- When and how do team members give feedback to one another?
+
+	- What are some workplace traditions?
+
+	- What are some of the ways the company celebrates success?
+
+- Policies
+	
+	- What are the policies around sick days and vacation?
+
+	- Does the company allow for employee flexibility (e.g., working from home, flexible working hours)?
+
+	- What policies are in place that support employees sharing their identity in the workplace?
+
+- Processes
+	
+	- What is the company’s onboarding process?
+
+	- How do employees measure the impact of their work?
+
+- Values
+
+	- What are the company’s mission and value statements?
+
+	- How might the person in this role contribute to the organization’s mission?
+
+	- How does the organization support professional development and career growth?
+
+- Listen to people’s stories
+
+	- Listening to what current employees have to say and how they portray the company will give you great insight.
+
+	- What were employees' experiences with similar projects in the past? 
+
+	- What can they tell you about key stakeholders and customers?
+
+#### Change Management
+
+The process of delivering your completed project **and getting people to adopt it**.
+
+- Create a sense of ownership and urgency
+
+- Figure out the right combination of skills and personalities
+
+- Effective Communication
+
+Understand the motivations, benefits and outcomes fo the change, and communicate them to those affected by it.
 
