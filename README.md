@@ -26,6 +26,8 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Cost Benefit Analysis Step by Step](https://www.projectmanager.com/blog/cost-benefit-analysis-for-projects-a-step-by-step-guide)
 
+- [SMART vs OKRs w/ Templates](https://www.smartsheet.com/content/okr-vs-smart-goals)
+
 ### Foundations of PM
 
 Mainly comes down to the following:
