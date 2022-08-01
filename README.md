@@ -28,6 +28,8 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [SMART vs OKRs w/ Templates](https://www.smartsheet.com/content/okr-vs-smart-goals)
 
+- [Triple Constraints Model Review](https://thedigitalprojectmanager.com/triple-constraint/)
+
 ### Foundations of PM
 
 Mainly comes down to the following:
