@@ -304,3 +304,77 @@ Must be defined well so that all teams understand what they must accomplish.
 
 Have stakeholders signoff on success criteria.
 
+### Accessibility
+
+Ensure all information is accessible to everyone regardless of their physical or mental condition and understand the principles of building accessible information sources.
+
+### Working on and with a Project Team
+
+Building a team:
+
+	- Make a list of roles in the team to complete each task
+
+	- The person is each role is accountable for specific tasks within the project life cycle.
+
+	- Understand the size of team needed.
+
+	- Train those that lack the skills to get the work done, but it should be done quickly to avoid delays.
+
+		- Skills like leadership, and problem-solving are invaluable on a team it is worth it to train such people on a skill so that they can be a part of the team.
+
+	- Consider each person's availability and motiviation when assigning tasks.
+
+#### Defining Project roles
+
+Before starting the project, everyone should know their roles so that they know their responsibilities.
+
+- **Project Sponsors**: Accountable for the project and who ensures the project delivers the agreed upon business benefits. Vital leadership role, fund the project and carry out key communication.
+
+- **Team Members**: The people doing the day-to-day work and make things happen.
+
+- **Customers**: The people who will get some value from a successfully landed project.
+
+- **Users**: Use the product.
+
+- **Stakeholders**: Anyone involved in the project, with vested interest in the project's success. Primary Stakeholders are those who expect beenfits directly from the project. Secondary Stakeholders benefit indirectly.
+
+- **Project Manager**
+
+#### Stakeholder Analysis
+
+Helps you understand which stakeholder is participating in which activity, their expertise and their influence.
+
+It is a visual representation of all stakeholders, the steps involve:
+
+	- List all stakeholders
+
+	- Determine their level of interest and influence (influence measures how much power a stakeholder has and how much this stakeholder's actions affect the project outcome).
+
+	- Assess their availability to the project.
+
+**Power Grid**: a 2x2 grid used for stakeholder analysis. They're placed based on influence and interest, their position on the grid tells us about their role.
+
+|            |                  |                    |
+|------------|------------------|--------------------|
+| High Power | Meet their Needs | Key Players        |
+| Low Power  | Monitor          | Show consideration |
+|            | Low Interest     | High Interest      |
+
+**Steering Committee**: Key stakeholder that has the authority to change the budget and approve new timelines or scope.
+
+**Stakeholder Buy-in**: The process of involving stakeholders in decion making to hopefully reach a broader consensus on the org's future.
+
+	- The PM focuses on the key stakeholders.
+
+	- THe PM explains the project plans to achieve their goals.
+
+	- The PM receives their support for the project's success.
+
+Note for when communicating with stakeholders:
+
+	- One main stakeholder needs constant communication.
+
+	- Numerous stakeholders would not be quite involved.
+
+	- If stakeholder needs time to decide, they must be communicated with early on.
+
