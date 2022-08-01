@@ -102,7 +102,7 @@ Specific: Should answer atleast 2 questions about the following:
 
 - Measurable:
 	
-	- Metrics which can be numbers or figures.
+- Metrics which can be numbers or figures.
 
 	- How much, how many, when ?
 
@@ -210,37 +210,37 @@ Keeping track of the scope involves knowing which tasks are part of the plan, wh
 
 Sources of Scope Creep:
 
-	- *External*
+- *External*
 
-		- Customer Requests
+	- Customer Requests
 
-		- Environment Shifts
+	- Environment Shifts
 
-		- Changes in Technology
+	- Changes in Technology
 
-	- Solutions to External Creep:
+- Solutions to External Creep:
 
-		- Make Project plans visible
+	- Make Project plans visible
 
-		- Get clarity on Requirements
+	- Get clarity on Requirements
 
-		- Set ground rules and expectations for stakeholders.
+	- Set ground rules and expectations for stakeholders.
 
-		- Create a plan for dealing with out-of-scope requirests.
+	- Create a plan for dealing with out-of-scope requirests.
 
-		- Put your agreements in writing.
+	- Put your agreements in writing.
 
-	- *Internal*
+- *Internal*
 
-		- Product Improvements
+	- Product Improvements
 
-		- Process Changes
+	- Process Changes
 
-	- Solutions to Internal Creep:
+- Solutions to Internal Creep:
 
-		- Clarify impact of any changes on the project.
+	- Clarify impact of any changes on the project.
 
-		- Knowing all aspects of the project helps respond to a new requrest.
+	- Knowing all aspects of the project helps respond to a new requrest.
 
 **Control Scope Creep**
 
@@ -262,11 +262,11 @@ Sources of Scope Creep:
 
 Tool to decide if the change in scope is acceptable. It also helps understand the impacts. the three constraints are:
 
-	- Scope
+- Scope
 
-	- Time
+- Time
 
-	- Cost
+- Cost
 
 All of them together affect the quality, and change to any one affects the other. Approvals must be made if a change is to be made.
 
@@ -278,27 +278,27 @@ All of them together affect the quality, and change to any one affects the other
 
 **Success Criteria**:
 	
-	- Indlude all the details of goals and deliverables
+- Indlude all the details of goals and deliverables
 
-	- They are a guide to know whether the project has attained the intented outcomes.
+- They are a guide to know whether the project has attained the intented outcomes.
 
-	- They set standard for how a project will be judged.
+- They set standard for how a project will be judged.
 
 ### Defining Success Criteria
 
 Must be defined well so that all teams understand what they must accomplish.
 
-	- Go through the project goals, deliverables, review the scope, and identify the measurable aspects of the project to know when the project is successfully accomplished.
+- Go through the project goals, deliverables, review the scope, and identify the measurable aspects of the project to know when the project is successfully accomplished.
 
-	- Clarify the project requirements and expectations with the stakeholders.
+- Clarify the project requirements and expectations with the stakeholders.
 
-	- Document and share all info so that everyone can refer to it.
+- Document and share all info so that everyone can refer to it.
 	
-	- Choose metrics that closely align with the project goal to measure success throughout the lifecycle of the project.
+- Choose metrics that closely align with the project goal to measure success throughout the lifecycle of the project.
 
-	- Pick the most suitable tool to collect the required data and track the metrics.
+- Pick the most suitable tool to collect the required data and track the metrics.
 
-	- Pick the best methods that work for the success criteria to measure success, frequency of measurement and the persons who measure it.
+- Pick the best methods that work for the success criteria to measure success, frequency of measurement and the persons who measure it.
 
 **Adoption**: How the customer uses and adopts a product or service without any issues.
 
@@ -312,17 +312,17 @@ Ensure all information is accessible to everyone regardless of their physical or
 
 Building a team:
 
-	- Make a list of roles in the team to complete each task
+- Make a list of roles in the team to complete each task
 
-	- The person is each role is accountable for specific tasks within the project life cycle.
+- The person is each role is accountable for specific tasks within the project life cycle.
 
-	- Understand the size of team needed.
+- Understand the size of team needed.
 
-	- Train those that lack the skills to get the work done, but it should be done quickly to avoid delays.
+- Train those that lack the skills to get the work done, but it should be done quickly to avoid delays.
 
-		- Skills like leadership, and problem-solving are invaluable on a team it is worth it to train such people on a skill so that they can be a part of the team.
+	- Skills like leadership, and problem-solving are invaluable on a team it is worth it to train such people on a skill so that they can be a part of the team.
 
-	- Consider each person's availability and motiviation when assigning tasks.
+- Consider each person's availability and motiviation when assigning tasks.
 
 #### Defining Project roles
 
@@ -346,11 +346,11 @@ Helps you understand which stakeholder is participating in which activity, their
 
 It is a visual representation of all stakeholders, the steps involve:
 
-	- List all stakeholders
+- List all stakeholders
 
-	- Determine their level of interest and influence (influence measures how much power a stakeholder has and how much this stakeholder's actions affect the project outcome).
+- Determine their level of interest and influence (influence measures how much power a stakeholder has and how much this stakeholder's actions affect the project outcome).
 
-	- Assess their availability to the project.
+- Assess their availability to the project.
 
 **Power Grid**: a 2x2 grid used for stakeholder analysis. They're placed based on influence and interest, their position on the grid tells us about their role.
 
@@ -364,17 +364,56 @@ It is a visual representation of all stakeholders, the steps involve:
 
 **Stakeholder Buy-in**: The process of involving stakeholders in decion making to hopefully reach a broader consensus on the org's future.
 
-	- The PM focuses on the key stakeholders.
+- The PM focuses on the key stakeholders.
 
-	- THe PM explains the project plans to achieve their goals.
+- The PM explains the project plans to achieve their goals.
 
-	- The PM receives their support for the project's success.
+- The PM receives their support for the project's success.
 
 Note for when communicating with stakeholders:
 
-	- One main stakeholder needs constant communication.
+- One main stakeholder needs constant communication.
 
-	- Numerous stakeholders would not be quite involved.
+- Numerous stakeholders would not be quite involved.
 
-	- If stakeholder needs time to decide, they must be communicated with early on.
+- If stakeholder needs time to decide, they must be communicated with early on.
+
+### RACI Charts
+
+RACI: 
+
+- Responsible; doing the work to complete the task.
+	
+- Accountable; ensuring that the work gets done.
+	
+- Consulted; giving feedback.
+
+- Informed; just needing to know final decisions.
+
+This chart describes the roles and responsibilities of team members.
+
+Example:
+
+| Deliverables | Team Member |             |
+|--------------|-------------|-------------|
+| App          | Person 1: C | Person 2: A |
+| Design       | Person 1: R | Person 2: A |
+
+### Why Projects Fails: Initiation missteps
+
+**Unclear Expectations**: Some questions have to be answered to avoid this:
+
+- What is the end goal ?
+
+- What are the expected deliverable and schedule ?
+
+- What is the budget ?
+
+-  Who are the stakeholders ?
+
+**Unrealistic Expectations**: Keep the communications clear and concise.
+
+**Misscommunication**
+
+**Lack of Resources**
 
