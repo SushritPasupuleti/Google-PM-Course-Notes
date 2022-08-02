@@ -30,6 +30,20 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Triple Constraints Model Review](https://thedigitalprojectmanager.com/triple-constraint/)
 
+- [Asana Guide](https://asana.com/guide)
+
+## Templates
+
+- [Project Timeline](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
+
+- [Project Tracking](https://docs.google.com/spreadsheets/d/12AK5slxygSxj8nmjS39SCnEFkCy8WZDbgN0vSQh2xwg/template/preview?resourcekey=0-__sqaWcGZavYWgXz-WD4jQ#gid=1161341563)
+
+- [Gantt Chart](https://docs.google.com/spreadsheets/d/1Yc1KA_7DMwBqyt2Zcx68HAV3oEp1FnUt-undm0XHgqM/template/preview?resourcekey=0-y-3VgQEbmAVaiEGfeyeJ-g#gid=1115838130)
+
+- [Event Marketing](https://docs.google.com/spreadsheets/d/10GindXMsW6z0pFvd5Ymjz_PS0dXJ5eCkl3KDKEPO9qY/template/preview#gid=541890420)
+
+- [Project Management Tool Tracker](https://docs.google.com/spreadsheets/d/1HyBhk8e1w7N_MIlLBvFtPTOy4-I_6Ig_MA1nd5LqYQE/template/preview?resourcekey=0-_cR_r4OEpzHxfJzpCEUNrQ#gid=0)
+
 ### Foundations of PM
 
 Mainly comes down to the following:

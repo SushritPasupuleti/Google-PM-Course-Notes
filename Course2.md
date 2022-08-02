@@ -394,7 +394,7 @@ This chart describes the roles and responsibilities of team members.
 
 Example:
 
-| Deliverables | Team Member |             |
+| Deliverables | Team Member | Team Member |
 |--------------|-------------|-------------|
 | App          | Person 1: C | Person 2: A |
 | Design       | Person 1: R | Person 2: A |
@@ -416,4 +416,124 @@ Example:
 **Misscommunication**
 
 **Lack of Resources**
+
+### Essential Project Resources
+
+Resources required must be figured out before starting work on the project.
+
+**Tools**: Aids that make it easier for project manager or team to manage resources and organize worrk.
+
+- Track tasks
+
+- Manage budgets
+
+- Collaborate with teammates
+
+- Create diagrams
+
+- Manage contracts
+
+- Maintain visibility for everyone.
+
+### Documentation
+
+#### Value of Project Documentation
+
+- Ensure transparency and clear communication.
+
+- Help in setting project stages.
+
+- Communicate the answers to key questions.
+
+- Help preserve decisions made early on.
+
+- Helps in uncovering tasks, timelines, or costs which have not been considered previously.
+
+- Record all timely information to be reviewed after completing the project.
+
+#### Project Proposal and Charter
+
+**Project Proposal**: Formal documentation that persuades a stakeholder to begin a project. It also helps in understanding the goals and impacts.
+
+**Project Charter**: Formal document that clearly dfiens the project and outlines the necessary details needed to reach its goals. Also clarifies that the benefits of the project outweigh the costs.
+
+The project manager reviews and develops the charter, adapting to its audiences and the stakeholders' needs throughout the process.
+
+#### Project Charter Format
+
+They include:
+
+- Introduction/Project summary
+
+- Goals/Objectives
+
+- Business case/benefits and costs
+
+- Project team
+
+- Scope
+
+- Success criteria
+
+- Major requirements or key deliverables
+
+- Budget
+
+- Schedule/timeline or milestones
+
+- Constrains and assumptions
+
+- Risks
+
+- OKRs
+
+- Approvals
+
+### PM Tools
+
+Help track detailed information about all kinds of tasks and make it easy to communicate with lots oof different people.
+
+**Introducing new tools to a team**:
+
+- Discuss the tool early and often, if possible.
+
+- Ask for feedback from stakeholders.
+
+- Involve the key stakeholders in demos as you get closer to making the final decision on the tool.
+
+- Ensure the tool is fully functional before the team is introduced to it.
+
+- Set up training for the tool as needed before you ask the team to actually use it.
+
+**Tool Types**:
+
+- Scheduling and Work Management Software:
+
+	- Assign tasks to team members.
+
+	- Track team progress so that the issues will be known and resolved immediately.
+
+	- Ex: Asana, Jira.
+
+- Productivity Tools:
+
+	- Online shared docs for Collaboration
+
+		- Meeting agendas
+
+		- Status updates
+
+		- Spreadsheets
+		
+		- RACI Charts
+
+		- Project Plans
+
+	- Spreadsheets
+
+	- Presentations
+
+- Collaboration Tools:
+
+	- Email and Chat
 
