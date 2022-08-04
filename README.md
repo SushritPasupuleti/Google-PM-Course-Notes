@@ -8,7 +8,7 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Project Initiation](./Course2.md)
 
-- Project Planning
+- [Project Planning](./Course3.md)
 
 - Project Execution
 
@@ -32,6 +32,10 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Asana Guide](https://asana.com/guide)
 
+- [**💡Leading Software Teams Playlist**](https://www.youtube.com/playlist?list=PL32pD389V8xtt7hRrl9ygNPV59OuqFjI4)
+
+- [Creating a WBS and why](https://www.lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should)
+
 ## Templates
 
 - [Project Timeline](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
@@ -43,6 +47,18 @@ Using this repo to make notes as I complete the Google PM Course.
 - [Event Marketing](https://docs.google.com/spreadsheets/d/10GindXMsW6z0pFvd5Ymjz_PS0dXJ5eCkl3KDKEPO9qY/template/preview#gid=541890420)
 
 - [Project Management Tool Tracker](https://docs.google.com/spreadsheets/d/1HyBhk8e1w7N_MIlLBvFtPTOy4-I_6Ig_MA1nd5LqYQE/template/preview?resourcekey=0-_cR_r4OEpzHxfJzpCEUNrQ#gid=0)
+
+## PM Softwares to consider
+
+- Azure DevOps
+
+- ZenHub w/ GitHub
+
+- Asana
+
+- Jira
+
+- Mural (For Virtual Whiteboarding)
 
 ### Foundations of PM
 
