@@ -36,6 +36,8 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Creating a WBS and why](https://www.lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should)
 
+- [Critical Path for Beginners](https://www.workamajig.com/blog/critical-path-method) [another resource for the same](https://www.wrike.com/blog/critical-path-is-easy-as-123/)
+
 ## Templates
 
 - [Project Timeline](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
@@ -48,6 +50,8 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Project Management Tool Tracker](https://docs.google.com/spreadsheets/d/1HyBhk8e1w7N_MIlLBvFtPTOy4-I_6Ig_MA1nd5LqYQE/template/preview?resourcekey=0-_cR_r4OEpzHxfJzpCEUNrQ#gid=0)
 
+- [Project Plan](https://www.smartsheet.com/free-google-docs-templates-google-timeline-templates) [another](https://docs.google.com/spreadsheets/d/1TauRTFipsWDWGqaw6tmqJeknKhVI5IjR5jJvBfVzfGw/template/preview)
+
 ## PM Softwares to consider
 
 - Azure DevOps
@@ -59,6 +63,8 @@ Using this repo to make notes as I complete the Google PM Course.
 - Jira
 
 - Mural (For Virtual Whiteboarding)
+
+- [n8n](https://n8n.io/): Workflow automation (might be good to stitch together services)
 
 ### Foundations of PM
 

@@ -124,3 +124,85 @@ After creating a WBS, you will have:
 
 To assign tasks between 2 or more team members with the same roles, take into consideration each person's familiarity with the tasks at hand.
 
+### Project Plan
+
+Essential elements:
+
+- Tasks
+
+- milestones
+
+- Team
+
+- docs
+
+- Time
+
+### Time Estimates
+
+**Time estimation**: A prediction of the total amount of time required to complete a task.
+
+**Effort estimation**: A prediction of the amount of difficulty of active work required to complete a task.
+
+Example: Effort estimate for painting a wall maybe 30 mins, but the time estimate for the task will be 24 hours because it takes into account the total time taken for the wall to be ready for use aka drying of paint included.
+
+**Unrealistic effort estimate**: When you've underestimated the amount of time it'll take to complete a task.
+
+To avoid unrealistic estimates, communicate with the teammates working on the task as they will have the most realistic understanding of the amount of work required to complete a task, and will be able to provide you with the best estimate.
+
+**Buffer**: Extra time added to the end of a task or project to account for unexpected slowdowns or delays in work progress. Types include:
+
+- Task Buffers: To be used primarily for tasks that are out of the project team's control. Ex: things that rely on external factors like deliveries of products before commencing work etc. To be used sparingly for tasks within the project team's control.
+
+- Project Buffers
+
+### Capacity planning and Critical path
+
+**Capacity**: The amount of work that the people or resources assigned to the project can reasonably complete in a set period of time.
+
+**Capacity Planning**: Refers to the act of allocating people and resources to project tasks, and determining whether or not you have the necessary resources required to complete the work on time.
+
+**Critical Path**: The list of project milestones you must reach in order to meet the project goal on schedule, as well as the mandatory tasks that contribute to the completion of each milestone.
+
+It is the brare minimum number of taks and milestones you need to reach your project goal.
+
+WBS compliments Critical path creation.
+
+- Identify which tasks can happen in parallel vs which can happen sequentially.
+
+- Determine which project tasks have a fixed start date.
+
+- Determine which project tasks have an earliest start date.
+
+- Identify if a task has float (also called slack).
+
+**Float**: Amount of time you can wait to begin a task before it impacts the project schedule and threatens the project outcome.
+
+Tasks on the critical path should have **zero** float.
+
+**Soft skills**: Personal characteristics that help people work effectively with others.
+
+- Asking the right Questions
+
+- Negotiating effectively
+
+- Practicing empathy
+
+### Developing a Project Schedule
+
+An anchor of a good project plan is a clear schedule, containing all the tasks of a project, their owners, and when they need to be completed.
+
+**Gantt Chart**: Horizontal char that maps out the project schedule.
+
+### Project Plan best practices
+
+- Carefully review deliverables, milestones and tasks.
+
+- Give yourself time to plan.
+
+- Recognize and plan for the inevitable: things will go wrong.
+
+- Stay curious
+
+- Champion your plan.
+
