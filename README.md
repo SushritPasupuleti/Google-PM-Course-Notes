@@ -52,6 +52,8 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Project Plan](https://www.smartsheet.com/free-google-docs-templates-google-timeline-templates) [another](https://docs.google.com/spreadsheets/d/1TauRTFipsWDWGqaw6tmqJeknKhVI5IjR5jJvBfVzfGw/template/preview)
 
+- [Budget Template](https://docs.google.com/spreadsheets/d/1DuY4viZtcjPzhdC1EotnJMxLd61v0eYNkRtJwHGww8U/template/preview)
+
 ## PM Softwares to consider
 
 - Azure DevOps

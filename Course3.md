@@ -206,3 +206,143 @@ An anchor of a good project plan is a clear schedule, containing all the tasks o
 
 - Champion your plan.
 
+### Budgeting
+
+**Project budget**: The estimated monetary resources needed to achieve the project's goals and objectives.
+
+**Forecast**: A cost estimate, or prediction over a period of time.
+
+Budgets should be prepared alongside schedule planning.
+
+When creating a budget, the following must be accounted for:
+
+- Understanding stakeholder needs.
+
+- Budgeting for surprise expenses.
+
+- Maintaining adaptibility.
+
+- Reviewing and reforecasting throughout the project.
+
+Factors to consider when creating a budget:
+
+- Resource cost rates: Cost of a resource
+
+- Reserve analysis: A method to check for remaining project resources
+
+- Contingency budget: Money that is included to cover potentially unforeseen events that aren't accounted for in a cost estimate.
+
+- Cost of quality: Costs that are incurred to prevent issues with products, processes, or tasks. It includes:
+
+	- Prevention Costs
+
+	- Appraisal Costs
+
+	- Internal failure Costs
+
+	- External failure costs
+
+Best practices for budgeting:
+
+- Reference historical data.
+
+- Utilize your team, mentors and managers.
+
+- Time-phase your budget.
+
+- Check as many times as you can.
+
+- Create a baseline first.
+
+- Bottom-up budgeting.
+
+### Maintaining a project budget
+
+Monitoring the budget is crucial for a PM to enforce accountability in terms of spending.
+
+Milestones are a great opportunity to re-review the budget, to identify if anything needs to be reset or revisited throughout the project.
+
+**Fixed Contracts**: Paid for when certain milestones are reached.
+
+**Time & Materials contracts**: Paid monthly based on hours worked and other fees associated with the work, like travel and meals.
+
+**Cost control**: Practice where a PM identifies factors that might impact their budget and then creates effective actions to minimize variances.
+
+### Budgeting terms
+
+**Cash Flow**: The inflow and outflow of cash on your project. It is important to understand as you need **funding** (inflow) to keep your project running.
+
+**CAPEX**: Capital Expenses are an organization's major, long-term, upfront expenses, such as buildings, equipment, and vehicles.
+
+**OPEX**: Opertating Expenses are short-term expenses that are required for the day-to-day tasks involved in running the company, such as wages, rent and utilities. Often recurring in nature.
+
+**Contingency Reserves**: To cover for identified risks. Ex: Higher than expected monthly subscription for a software license.
+
+**Management Reserves**: To cover for unidentified risks.
+
+### Procurement
+
+Obtaining all of the materials, services, and supplies required to complete the project.
+
+**Vendors**: Individuals or businesses who provide essential goods and services.
+
+**Vendor Management**:
+
+- Sourcing vendors
+
+- Getting quotes for vendors' work
+
+- Determining which vendors will fulfill your needs
+
+- Negotiating vendor contracts
+
+- Setting deadlines for vendors
+
+- Evaluating performance
+
+- Ensuring vendors are paid
+
+#### Procurement process
+
+- Initiating
+
+- Selecting
+
+- Contract writing
+
+- Control
+
+- Completing
+
+**Agile Procurement management**:
+
+- Collaborative with both the project team and end supplier.
+
+- Emphasis on the relationship between these parties
+
+- Project team plays a larger role in identifying what needs to be procured.
+
+- Living contract
+
+**Traditional Procurement management**:
+
+- Focus on standard contracts with clear terms and deliverables.
+
+- Project manager may be responsible for end-to-end procurement.
+
+- Contracts may feature lengthy and extensive documentation.
+
+#### Procurement documentation
+
+- Initiating Phase -> NDAs
+
+- Selection Phase -> Request for Proposal (RFP)
+
+- Contracting Phase -> Statement of Work (SoW)
+
+**NDA**: A document that keeps confidential information within the organization.
+
+**RFP**: A document that outlines the details of the project. Used to get bids from vendors.
+
+**SoW**: A document that clearly lays out the products and services a vendor or contractor will provide for the organization.
+
