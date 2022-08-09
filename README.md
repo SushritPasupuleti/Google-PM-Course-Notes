@@ -38,6 +38,9 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Critical Path for Beginners](https://www.workamajig.com/blog/critical-path-method) [another resource for the same](https://www.wrike.com/blog/critical-path-is-easy-as-123/)
 
+
+- [Exploiting opportunities](https://www.pmi.org/learning/library/effective-strategies-exploiting-opportunities-7947)
+
 ## Templates
 
 - [Project Timeline](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)

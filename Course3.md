@@ -346,3 +346,88 @@ Obtaining all of the materials, services, and supplies required to complete the 
 
 **SoW**: A document that clearly lays out the products and services a vendor or contractor will provide for the organization.
 
+### Risk Management
+
+**Risk**: Potential event which can occur and can impact your project.
+
+**Issue**: Known or real problem that can affect the ability to complete a task.
+
+**Risk Management**: The process of identifying and evaluating potential risks and issues that could impact a project. It provides an understanding of:
+
+- What could go wrong
+
+- Who you'll need to consult
+
+- How it could be mitigated
+
+#### Phases of risk management
+
+- Identify the risk
+
+- Analyze the risk
+
+- Evaluate the risk
+
+- Treat the risk
+
+- Monitor and control the risk
+
+#### Identifying risks
+
+**Cause-and-effect diagram / Fishbone diagram**: A diagram that shows the possible causes of an event and risk.
+
+Steps to create a fishbone diagram:
+
+- Define the problem
+
+- Identify the categories
+
+- Brainstorm the causes
+
+- Analyze the causes
+
+**Risk register**: A table or chart that contains a list of risks.
+
+**Risk assessment**: The stage of risk management where qualities of a risk are estimated or measured.
+
+**Probability and impact matrix**: A tool used to prioritize project risk.
+
+**Impact**: The damage a risk could cause, if it occurs. Impact is determined on a scale of high to low.
+
+**Inherent risk**: The measure of a risk, calculated by its probability and impact.
+
+**Risk appetite**: The willingness of an org to accept the possible outcomes of a risk.
+
+#### Types of Risks
+
+- Time risks
+
+- Budget risks
+
+- Scope risks
+
+- External risks
+
+- Single point of failure
+
+**Dependency**: A relationship between 2 project tasks, where the start or completion of one depends on the start or completion of the other.
+
+#### Risk mitigation strategies
+
+- Avoid
+
+- Minimize
+
+- Transfer; to someone else
+
+- Accept
+
+**Decision tree**: A flowchart that helps visualize the wider impact of a decision on the rest of a project.
+
+
+#### Risk management plan
+
+A living document that contains information regarding high level risks and the mitgiation plans for those risks.
+
+Communicate identified risks early on with stakeholders.
+
