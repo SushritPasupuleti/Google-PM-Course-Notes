@@ -431,3 +431,43 @@ A living document that contains information regarding high level risks and the m
 
 Communicate identified risks early on with stakeholders.
 
+### Effective Communication
+
+- Clear
+
+- Honest
+
+- Relevant
+
+- Frequent
+
+- Recognize and understand individual differences
+
+- Brainstorm and craft the appropriate message
+
+- Deliver your message
+
+- Obtain feedback and incorporate that going forward
+
+#### Communication Plan
+
+Organizes and documents the process, types and expectations of communication for the project.
+
+- What needs to be communicated
+
+- Who needs to communicate
+
+- When communication needs to happen
+
+- Why and how to communicate
+
+- Where the information being communicated is stored
+
+### Project Documentation
+
+Documenting and organizing plans provides visibility and accountability. Having up-to-date plans will help ensure there's no room for miscommunication.
+
+Summarize relevant info for those who need to stay informed on key points but don't need all the info.
+
+**Knowledge Management**: A way of ensuring that project data can be accessed in future by others who need it for informing decisions or planning similar projects.
+
