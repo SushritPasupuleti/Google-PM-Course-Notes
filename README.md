@@ -36,10 +36,12 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Creating a WBS and why](https://www.lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should)
 
-- [Critical Path for Beginners](https://www.workamajig.com/blog/critical-path-method) [another resource for the same](https://www.wrike.com/blog/critical-path-is-easy-as-123/)
+- [Critical Path for Beginners](https://www.workamajig.com/blog/critical-path-method) and [another resource for the same](https://www.wrike.com/blog/critical-path-is-easy-as-123/)
 
 
 - [Exploiting opportunities](https://www.pmi.org/learning/library/effective-strategies-exploiting-opportunities-7947)
+
+- [Joining a new team as a PM](https://blog.tryexponent.com/first-30-60-90-days-product-manager/)
 
 ## Templates
 
