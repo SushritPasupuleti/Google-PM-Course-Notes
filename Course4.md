@@ -259,3 +259,95 @@ Reasons to hold a retro:
 
 - Record key lessons that other people can learn from.
 
+### Gathering data for a project
+
+**Data benefits**:
+
+- Make better decisions
+
+- Solve problems
+
+- Understand performance
+
+**Metric**: A quantifiable measurement that is used to track and assess a business objective.
+
+Project Metrics:
+
+	- Productivity Metrics
+
+		- Milestones
+
+		- Tasks completed
+
+		- Projections
+
+		- Duration
+
+	- Quality Metrics
+
+		- Number of changes
+
+		- Issues
+
+		- Cost variance
+
+### Discerning important Data
+
+**Signal**: An observable change that helps determine the overall health of a project and identify early signs that something isn't quite right.
+
+Looking for signals:
+
+	- Identify which tasks contribute the most to the overall goal.
+
+	- Prioritize the data or metrics that are most valuable to the stakeholders.
+
+**Biases in data**:
+
+- Sampling bias: The sample may not be representative of the whole population.
+
+- Observer bias: The tendency for different people to have different views/observations/conclusions of the same data.
+
+- Interpretation bias: The tendency to improperly interpret data when there is ambiguity within it.
+
+- Confirmation bias: The tendency to interpret data in a way to conforms to current beliefs.
+
+**Data analysis**: The process of collecting and organizing information to help draw conclusions.
+
+### Presenting data
+
+**Storytelling**: The process of turning facts into narrative to communicate something to the audience.
+
+- Define your audience
+
+	- What would the audience want to know about the project?
+
+	- What are the audiences' most urgent concerns?
+
+	- Which key data points influenced the story and project outcome?
+
+- Collect Data
+
+- Filter and analyze data
+
+- Choose a visual representation
+
+- Shape the story
+
+- Gather feedback
+
+#### Data vizualization tools
+
+- Filter info by focusing the audience on the most important data points and insights.
+
+- Condense long ideas and facts into a single image or representation.
+
+#### Graphs cheat sheet
+
+- Show relationships w/ scatter plots.
+
+- Compare values w/ bar graphs.
+
+- Demonstrate trends w/ line graphs.
+
+- Show compositions w/ pie charts.
+

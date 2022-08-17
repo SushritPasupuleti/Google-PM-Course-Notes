@@ -43,6 +43,8 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Joining a new team as a PM](https://blog.tryexponent.com/first-30-60-90-days-product-manager/)
 
+- [Project Metrics](https://www.wrike.com/blog/what-are-project-management-performance-metrics/)
+
 ## Templates
 
 - [Project Timeline](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
