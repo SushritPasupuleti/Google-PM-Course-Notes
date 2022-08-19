@@ -351,3 +351,139 @@ Looking for signals:
 
 - Show compositions w/ pie charts.
 
+### Great PMs
+
+- Support people to do their best work.
+
+- Enable people to build things they're proud of
+
+**Team**: A group of people who plan, solve problems, make decisions, and review progress in service of a specific project or objective.
+
+**Work Groups**: People in an org who work toward a common goal. Work groups are more likely to be coordinated, controlled, or assigned by a single person or entity.
+
+**Teamwork**: An effective, collaborative way of working in which each person is committed to and heading towards a shared goal.
+
+- Fosters creativity
+
+- Encourages accountability
+
+- Helps you get stuff done
+
+### Factors impacting team effectiveness
+
+- Psychological safety
+
+- Dependability
+
+- Structure and clarity
+
+- Meaning
+
+- Impact
+
+### Leading high-functioning teams
+
+- Create systems that turn chaos into order
+
+- Communicate and listen
+
+- Promote trust and psychological safety
+
+- Demonstrate empathy and create motivation
+
+- Delegate responsibility and prioritize
+
+- Celebrate team success
+
+### Team development and managing team dynamics
+
+Using **Bruce Tuckman's stages of development**:
+
+- Forming
+
+	- Team gets to know one another.
+
+	- PM should clarify project goals, roles, and context about the project.
+
+- Storming
+
+	- Frustrations and obstacles are identified.
+
+	- PM should focus on conflict resolution, listen as the team addresses the problems to solve, and share insights on how the team might better function as a unit.
+
+- Norming
+
+	- Conflicts are mostly resolved and team is working together.
+
+	- PM should codify the team norms, ensure that the team is aware of those norms, and reinforce them when needed.
+
+- Performing
+
+	- Team works together seamlessly
+
+	- PM should focus on delegating, motivating, and providing feedback to keep up the team's momentum.
+
+- Adjourning
+
+	- Project wraps up
+
+	- Team disbands
+
+	- Celebrate final milestones and successes
+
+**Why managing team dynamics is important**
+
+- Teams have individuals with different skill sets, varying degress of autonomy, and competing priorities.
+
+- Create a collaborative and psychologically safe environment.
+
+### Effectively influencing Teams
+
+**Influencing**: The ability to alter another person's thinking or behaviors
+
+- Establish credibility
+
+	- Why should they listen to you?
+
+- Frame for common ground
+
+	- Make the case for how your idea can benefit the team.
+
+- Provide evidence
+
+- Connect emotionally
+
+**Donts**
+
+- Approaching the audience aggressively
+
+- Resisting compromise
+
+- Failing to establish credibility, frame for common ground, or connect emotionally
+
+- Assume agreements can be worked out in a single conversation
+
+#### Using sources of power to influence
+
+Two buckets of power sources:
+
+- Organizational
+	
+	- Role
+
+	- Information
+
+	- Network
+
+	- Reputation
+
+- Personal
+
+	- Knowledge
+
+	- Expressiveness
+
+	- History
+
+	- Character
+
