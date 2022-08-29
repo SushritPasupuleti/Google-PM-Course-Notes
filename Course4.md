@@ -487,3 +487,86 @@ Two buckets of power sources:
 
 	- Character
 
+### Effective communication
+
+Project document responsibilities:
+
+- How documents get used
+
+- Who has access to documents
+
+- How often documents are updated
+
+Some information must be communicated multiple times in different ways.
+
+- Some people learn by listening
+
+- Some people learn by watching
+
+- Some people learn by doing
+
+#### Effective email communication
+
+- State what you want clearly
+
+	- Include your request in the subject line
+
+	- State your request within the first 2 paragraphs of the body
+
+	- Indicate the specific call-to-action associated with the request(for ex: reply, review, RSVP)
+
+	- Write clear, concise sentences
+
+	- Define terms, avoid acronyms, and use proper nouns.
+
+- Keep the content short and concise
+
+	- Summarize the contnet you want to convey, and remove anything in your email that doesn't contribute to your goal.
+
+	- Aim to write "question-less" and "self-standing" emails. This means that the message contains enough information to stand on its own. The reader shouldn't have any questions about what you want adn when you want it.
+
+	- Know your audience. Some people-such as executives and other busy leadership-may not want to read emails of more than a few sentences or click on external links for further information. Try to tailor your emails accordingly.
+
+- Structure your writing
+
+	- Use bullets
+
+	- Use labels
+
+	- Use hyperlinks
+
+	- Write a strong topic sentence.
+
+- Check your grammar, spelling, and punctuation
+
+### Organizing effective meetings
+
+- Structured
+
+	- Start and end on time (timeboxing)
+
+	- Carefully selected attendees
+
+	- Prioritized topics
+
+	- Designated notetaker
+
+- Intentional
+
+	- Send any pre-reading materials to set context for the meeting
+
+- Collaborative
+
+- Inclusive
+
+### Types of Project meetings
+
+- Project kick-off
+
+- Status updates
+
+- Stakeholder reviews
+
+- Project reviews
+
+
