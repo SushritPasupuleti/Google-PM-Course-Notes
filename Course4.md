@@ -569,4 +569,62 @@ Some information must be communicated multiple times in different ways.
 
 - Project reviews
 
+### Project Closure
 
+- Assure all work is done
+
+- Agreed upon PM processes are executed
+
+- Formal recognition and agreement that the project is done by key stakeholders
+
+**Never-ending Project**: When the project deliverables and tasks cannot be completed.
+
+**Abandoned Project**: When inadequate handoff or transition on the project deliverables occurs.
+
+#### Conducting a closing process after each phase or milestone:
+
+- Refer to prior documentation
+
+	- SoW
+
+	- Request for Proposal
+
+	- Risk register
+
+	- RACI chart
+
+- Put together closing documentation
+
+- Conduct administrative closure of the procurement process
+
+- Make sure all stakeholders are aware that a phase, or project, is ending.
+
+**Impact reporting**: Presentation that is given at the end of a project for key stakeholders.
+
+- Highlight key performance areas.
+
+- Use metrics
+
+	- Revenue growth
+
+	- ROI
+
+	- DAUs
+
+	- Cost v Margins
+
+	- Customer satisfaction
+
+	- Overhead reduction
+
+	- Time saved
+
+#### Project closeour report
+
+Document created by PMs for PMs
+
+- Blueprint to document what the team did, how they did it and what they delivered.
+
+- Provides an evaluation of quality of work
+
+- It evaluates the project's performance with respect to budget and schedule
