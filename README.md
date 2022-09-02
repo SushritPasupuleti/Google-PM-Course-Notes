@@ -45,6 +45,8 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Project Metrics](https://www.wrike.com/blog/what-are-project-management-performance-metrics/)
 
+- [Spotify Model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
+
 ## Templates
 
 - [Project Timeline](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)
