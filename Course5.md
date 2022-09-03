@@ -138,5 +138,56 @@ The 12 principles are categorized into 4 themes, which are:
 
 - Leverage practices like: Pair Programming, CI/CD, Avoid Big Design Up Front, Write Tests not Requirements.
 
+### Scrum
+
+Agile is the foundational philosophy and mindset, while Scrum is a framework that materializes or brings that philosophy to life.
+
+#### 3 Scrum Pillars
+
+- **Transparency**: The team is open and honest about what they are doing and why.
+
+- **Inspection**: The team is accountable for their work and the quality of their work.
+
+- **Adaptation**: The team is able to adapt to changing circumstances and new challenges.
+
+#### 5 Scrum Values
+
+- Commitment
+
+- Courage
+
+- Focus
+
+- Openness
+
+- Respect
+
+#### Scrum Master traits
+
+Promotes and supports the scrum process by helping everyone understand and implement scrum.
+
+Responsibilities include:
+
+- Coaching team members on Agile and Scrum practices, rules and values.
+
+- Helping to find ways to manage the Product Backlog.
+
+- Ensuring the team is on track to deliver the product on time.
+
+- Helping remove blockers.
+
+### Product Owner
+
+Ensure the team is building the right product for the customer.
+
+Responsibilities include:
+
+- Maximizing the value of the product.
+
+- Act as voice of the customer.
+
+- Help the team understand why their work matters within the overall goal and mission of the project.
+
+- Prioritize the Product Backlog to optimize the team's efforts.
 
 
