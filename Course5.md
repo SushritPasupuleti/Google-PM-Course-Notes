@@ -190,4 +190,147 @@ Responsibilities include:
 
 - Prioritize the Product Backlog to optimize the team's efforts.
 
+### Implementing Scrum
+
+**Product Backlog**: The single authoritative source for things that a team works on. It contains all of the features, requirements, and activities associated with deliverables to achieve the goal of the project.
+
+- Living artifact: It is constantly evolving and changing.
+
+- Owned and adjusted by the product owner.
+
+- Prioritized list of features.
+
+### Writing User Stories
+
+**User Stories**: Short, simple descriptions of a feature told from the perspective of the user.
+
+Elements of a user story:
+
+- User
+
+- Action
+
+- Benefit
+
+> As a **<user role>** I want this **<action>** so that I can **<benefit>**.
+
+Stories should have the following characteristics:
+
+- **I**nvest
+
+- **N**egotiable
+
+- **V**aluable
+
+- **E**stimable
+
+- **S**mall
+
+- **T**estable
+
+or **INVEST**
+
+**Epic**: A group or collection of user stories.
+
+**Acceptance Criteria**: The checklist you will use to decide whether the user story is done.
+
+### Backlog Refinement
+
+Review the product backlog to ensure:
+
+- It contains the appropriate items, and that nothing new is needed or nothing needs to be removed.
+
+- That the items are prioritized by the Product Owner, this is also calleed setting the order field
+
+- That the items at the top of the backlog are ready for delivery with clear acceptance criteria.
+
+- And that the backlog items include estimates or an informed assessment about how much work a particular backlog item will be.
+
+**Estimation**: Through estimation we can find out how much work we have ahead of us.
+
+**Relative Estimation**: Instead of trying to determine exactly how long a task will take, we compare the effort of that task to another task, and that becomes the estimate.
+
+**Tip**: Use fibonacci numbers to assign story points.
+
+### Sprints
+
+Within a sprint, the amount of work is planned based on historical capacity of the team and is made ready for the sprint planning event.
+
+**Timeboxes**: A timebox is a fixed period of time during which work is done.
+
+Sprints can be anywhere from 1 week to 1 month long, to choose consider:
+
+- The frequency with which new changes may come in.
+
+- How much focused time your solution developers need to work on the project.
+
+### Sprint planning
+
+The entire scrum team comes together and meets to confirm how much capacity, meaning time and people, are available during this sprint.
+
+**Definition of Done**: Refers to an agreed upon set of items that must be completed before a user story or backlog item can be considered complete.
+
+Examples:
+
+- Code or solution itself is reviewed and approved by the team.
+
+- The product or unit tests are written and pass.
+
+- Documentation is complete.
+
+- All user stories are complete.
+
+- The product owner has approved the work.
+
+### Daily Scrum and Sprint Review
+
+**Daily Scrum**: A 15-minute meeting that happens every day of the sprint to synchronize the team's work and identify any impediments.
+
+**Sprint Review**: A meeting with the entire Scrum Team where the product is demonstrated in order to determine which aspects are finished and which aren't.
+
+It covers:
+
+- Exploration of which items should be considered done in the Product Backlog.
+
+- Demonstrate and inspect the Product.
+
+**Product Increment**: The sum of all the work completed during the sprint.
+
+### Sprint Retrospectives
+
+**Sprint Retrospective**: A meeting that happens at the end of the sprint to inspect how the sprint went and identify ways to improve. Can last upto 3 hours.
+
+Talk about:
+
+- What's working or not working for the team regarding the processes, people and tools.
+
+- What improvements are worth exploring in the next sprint.
+
+- And what improvements were put in place for the last sprint? Were they effective? Why ?
+
+Things to achieve:
+
+- Be blameless by creating a safe environment for everyone to share their thoughts, feedback and ideas.
+
+- Partipation by everyone on the team.
+
+- Balance on the negative and positive feedback.
+
+- Take action on the feedback.
+
+### Velocity and Burndown Charts
+
+**Burndown Chart**: A chart that shows the amount of work remaining in a sprint over time.
+
+**Velocity**: The amount of work a team can complete in a sprint.
+
+Dos and Don'ts for velocity:
+
+- Do: Be careful when sharing velocity with external stakeholders.
+
+- Don't: Use velocity as a performance metric.
+
+- Don't: Use velocity as a comprison metric.
+
+- Do: Proceed with caution when using velocity to predict future sprints.
 
