@@ -47,6 +47,16 @@ Using this repo to make notes as I complete the Google PM Course.
 
 - [Spotify Model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
+- [Agile in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE&ab_channel=HenrikKniberg)
+
+- [Product Roadmap best practices](https://www.scrum.org/resources/blog/product-roadmap-first-principles-empower-scrum-teams-align-w-stakeholders)
+
+- [Combine Agile and DevOps](https://devops.com/how-to-combine-devops-and-agile/)
+
+- [Convergence of Scrum and DevOps](https://www.scrum.org/resources/convergence-scrum-and-devops)
+
+- [LESS Framework](https://less.works/)
+
 ## Templates
 
 - [Project Timeline](https://docs.google.com/spreadsheets/d/1Us-j-BAG3kiIJENBt3SqRXkJQL_TZh-yejJyZzq9L60/template/preview#gid=1709744959)

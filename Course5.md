@@ -334,3 +334,206 @@ Dos and Don'ts for velocity:
 
 - Do: Proceed with caution when using velocity to predict future sprints.
 
+### Maximizing value-driven delivery
+
+**Value** can mean different things for each customer based on what they expect the product to accomplish.
+
+- Build the right thing.
+
+- Build the thing right.
+
+- Run the thing right.
+
+### Value Roadmap
+
+- An agile way of mapping out the product development process.
+
+- Can be used on all types of businesses.
+
+- A guide that demonstrates
+
+	- Where to go
+
+	- How to get there
+
+	- What to accomplish along the way
+
+- Helps the team explain the vision of the product.
+
+- Used to identify important milestones.
+
+**Product Vision**: A description of the product that describes the problem it solves and the value it provides.
+
+**Product Roadmap**: A high-level plan that describes the features and functionality that will be delivered over a period of time.
+
+**Release Plan**: Contains estimates for the work that will be done in a release and when each release will be delivered.
+
+- Release goal
+
+- List of backlog items
+
+- Estimated Release Date
+
+- Other relevant dates that impact the release
+
+### Facilitating Organizational Change
+
+Understanding organizational culture and the change management process is crucial when introducing new ways of working.
+
+**Organizational Culture**: The shared values, beliefs, and assumptions that influence how people behave in an organization.
+
+**Change Management**: The process of planning and supporting individuals and organizations in making organizational change.
+
+Create a sense of ownership:
+
+- Find an executive sponsor who also feels a sense of ownership for the change.
+
+- Having buy-in from someone at the top increases your chances of successfully driving change.
+
+Create a sense of urgency:
+
+- Ask questions about what's working and what's not working right now.
+
+	- What is preventing us from providing the best possible experience for our customers?
+
+	- What is allowing our competitors to outpace us?
+
+	- How can we help our teams become more productive and support their work?
+
+### Coaching an Agile team
+
+- Design the "plays" with the team
+
+- Provide feedback
+
+- Celebrate and learn with the team
+
+**Managing**
+
+- Onboarding and orienting new team members
+
+- Conducting meetings
+
+- Delegating tasks and assignments
+
+- Monitoring progress and performance against those tasks
+
+- Making high-level decisions
+
+**Coaching**
+
+- Motivate
+
+- Support
+
+- Encourage and appreciate
+
+### Agile team Challenges
+
+- Value delivery
+
+	- **Issues**
+
+		- Missing expected delivery dates
+
+		- Burned out team members
+
+		- Too many WIPs
+
+	- **Solutions**
+
+		- More demos of the solutions
+
+		- Use retrospectives to identify and address issues
+
+		- Make sure that everyone understands what "done" means
+
+		- Focus on only a few user stories per Sprint
+
+- Business Collaboration
+
+	- **Issues**
+
+		- You might notice that the team is overwhelmed with critical feedback or change requests.
+
+		- "Us vs. Them" mentality between the team doing the work and management.
+
+	- **Solutions**
+
+		- Addressing critical feedback and change requests by doing more demos
+
+		- Conducting a solution design Sprint
+
+		- Ensuring changes to the backlog are introduced only in between Sprints
+
+- Team dynamics and Culture
+
+	- **Issues**
+
+		- Low team morale
+
+		- Lots of conflict
+
+		- Low conflict
+
+	- **Solutions**
+
+		- Run a team brainstorm session
+
+		- Change up workflows
+
+		- Take a training course
+
+- Retrospectives
+
+### Agile Coaching challenges
+
+- Managing a stable product roadmap
+
+	- **Challenges**
+
+		- Product Ambition: Product leadership is overly ambitious about what the team can realistically deliver.
+
+			- Agree upfront how to handle new opportunities and ideas.
+
+			- Setup regular roadmap reviews with the entire team.
+
+			- Promote sharing knowledge between the product owner and development team.
+
+		- Product Assumptions: Initial assumptions made when the product was conceived may not be valid.
+
+			- Document the assumptions and make them transparent.
+
+			- Check assumptions against unbiased user research.
+
+- Incomplete implementation of Scrum
+
+	- **Issues**
+
+		- Loss of clear roles and Responsibilities
+
+		- Tempted to skip some events or blend them to save time
+
+		- Not providing the team with the Scrum coaching they need
+
+	- **Solutions**
+
+		- Implement scrum completely
+
+		- Make sure roles are well defined and properly fulfilled
+
+- Experiencing a lack of stability within the team
+
+	- **Issues**
+
+		- Changes in team composition
+
+	- **Solutions**
+
+		- Have a quick onboarding process
+
+		- Use pair Programming
+
+		- Have shorter sprints
+
+
